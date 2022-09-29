@@ -1,1 +1,1 @@
-# Bioinformatics_Algorithms
+# Bioinformatics_Algorithms_CRT_Training
