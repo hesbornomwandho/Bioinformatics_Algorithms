@@ -1,0 +1,16 @@
+# tools required for bioinformatics workshop
+
+conda install KMC3
+
+conda install bowtie2
+
+conda  install Minimap2
+
+
+conda install Minia
+
+
+conda install Minigraph
+
+
+conda install Graphvi
